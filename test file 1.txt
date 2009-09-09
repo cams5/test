@@ -2,4 +2,5 @@ This is a test file.
 This is a modification 1.
 This is a modification 2.
 
-This is a modification on branch2.
+This is a modification 3 on branch2.
+This is a modification 4 on branch2.
