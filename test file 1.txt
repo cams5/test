@@ -3,3 +3,6 @@ This is a modification 1.
 This is a modification 2.
 
 This is a modification from branch3.
+
+This is a modification 3 on branch2.
+This is a modification 4 on branch2.
